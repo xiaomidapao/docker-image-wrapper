@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.18.1
+FROM k8s.gcr.io/kube-apiserver:v1.19.4
 MAINTAINER heqingbao <qingbao.ho@gmail.com>
